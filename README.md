@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile.jpg" alt="Wadika Faisal" width="200" style="border-radius: 50%; border: 2px solid #ccc;">
+</p>
+
 # Wadika Faisal  
 **Process Improvement Engineer (EIT), PepsiCo Foods**  
 **M.Eng. Student, Mechanical & Industrial Engineering, Toronto Metropolitan University**
